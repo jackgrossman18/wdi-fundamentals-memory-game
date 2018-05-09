@@ -71,6 +71,17 @@ footer {
 	font-weight: 500;
 }
 
+.button {
+	background-color: #0D2C40;
+	border: none;
+	color: grey;
+	padding: 10px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 12px;
+}
+
 .copyright {
 	float: left;
 	color: white;
